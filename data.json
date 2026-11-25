@@ -1,0 +1,69 @@
+{
+  "hinweis": "Alle folgenden Datensätze sind frei erfundene Beispieldaten für die technische Demonstration. Vor Veröffentlichung durch eigene Recherche ersetzen. Es gibt keine Live-Schnittstelle zu GTA 6 oder gtabase.com.",
+  "eintraege": [
+    {
+      "id": "beispiel-auto-01",
+      "category": "auto",
+      "name": "Beispiel-Sportwagen",
+      "type": "Sportwagen",
+      "spawnOrt": "Beispielhafen – genauer Fundort nicht bestätigt",
+      "eigenschaften": "Hohe Geschwindigkeit, sportliches Handling (Beispielangaben)",
+      "besonderheiten": "Nur Demonstrationsdatensatz, kein bestätigtes Ingame-Fahrzeug.",
+      "sonstigeInfos": "Fundort und Eigenschaften vor Nutzung selbst überprüfen.",
+      "beschreibung": "Platzhalter für einen auffindbaren Wagen. Nicht als echter GTA-6-Fundort verstehen.",
+      "status": "beispiel",
+      "position": {
+        "x": 390,
+        "y": 690
+      }
+    },
+    {
+      "id": "beispiel-auto-02",
+      "category": "auto",
+      "name": "Beispiel-Geländewagen",
+      "type": "SUV / Geländewagen",
+      "spawnOrt": "Beispiel-Vorstadt – nicht bestätigt",
+      "eigenschaften": "Robuste Bauweise, geländetauglich (Beispielangaben)",
+      "besonderheiten": "Fiktiver Eintrag zum Testen von Suche und Filtern.",
+      "sonstigeInfos": "Ersetze diesen Datensatz durch geprüfte Informationen.",
+      "beschreibung": "Zweiter Platzhalter für die Fahrzeug-Kategorie.",
+      "status": "beispiel",
+      "position": {
+        "x": 1120,
+        "y": 470
+      }
+    },
+    {
+      "id": "beispiel-geld-01",
+      "category": "geld",
+      "name": "Beispiel-Lieferauftrag",
+      "art": "Job / Auftrag",
+      "ort": "Beispiel-Industriegebiet – nicht bestätigt",
+      "verdienst": "Beispiel: 500–1.000 $",
+      "schwierigkeit": "Leicht (Beispiel)",
+      "sonstigeInfos": "Verdienst, Voraussetzungen und Wiederholbarkeit selbst recherchieren.",
+      "beschreibung": "Fiktive Geldquelle, die zeigt, wie Jobs in der App dargestellt werden.",
+      "status": "beispiel",
+      "position": {
+        "x": 760,
+        "y": 300
+      }
+    },
+    {
+      "id": "beispiel-geld-02",
+      "category": "geld",
+      "name": "Beispiel-Ladenüberfall",
+      "art": "Raubüberfall",
+      "ort": "Beispiel-Innenstadt – nicht bestätigt",
+      "verdienst": "Nicht bekannt / Platzhalter",
+      "schwierigkeit": "Mittel (Beispiel)",
+      "sonstigeInfos": "Keine Aussage zu tatsächlichen Spielmechaniken oder Belohnungen.",
+      "beschreibung": "Platzhalter für einen möglichen Überfall-Ort.",
+      "status": "beispiel",
+      "position": {
+        "x": 1320,
+        "y": 820
+      }
+    }
+  ]
+}

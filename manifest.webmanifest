@@ -1,0 +1,26 @@
+{
+  "name": "GTA 6 – Fundortkarte (Deutsch)",
+  "short_name": "GTA 6 Karte",
+  "description": "Fan-Karte für Fahrzeugfundorte und Geldquellen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5f8",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "lang": "de"
+}

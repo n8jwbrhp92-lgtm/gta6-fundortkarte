@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#172033"/>
+<path d="M70 350 110 245Q120 220 150 220H360Q390 220 402 245L442 350V390H70Z" fill="#2563eb"/>
+<path d="M150 240H362L390 310H122Z" fill="#d9efff"/>
+<circle cx="150" cy="365" r="42" fill="#111827" stroke="#fff" stroke-width="14"/>
+<circle cx="362" cy="365" r="42" fill="#111827" stroke="#fff" stroke-width="14"/>
+<path d="M256 90 290 155H222Z" fill="#f5c451"/>
+<text x="256" y="190" font-family="Arial,sans-serif" font-size="58" font-weight="bold" text-anchor="middle" fill="#fff">VI</text>
+</svg>
